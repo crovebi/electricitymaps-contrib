@@ -1,0 +1,9 @@
+capacity:
+  - -2800
+  - 2800
+lonlat:
+  - 1.73
+  - 42.8
+parsers:
+  exchange: FR.fetch_exchange
+rotation: 20
